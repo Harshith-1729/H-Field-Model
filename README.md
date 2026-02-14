@@ -1,6 +1,6 @@
 # H-Field-Model
 
-This repository contains the **LaTeX source** for the **Hyparxis Field Model**, a covariant scalar–tensor framework with an informational order parameter and screening mechanisms.
+This repository contains the **PDF source** for the **Hyparxis Field Model**, a covariant scalar–tensor framework with an informational order parameter and screening mechanisms.
 
 ## Overview
 
