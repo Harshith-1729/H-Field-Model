@@ -16,5 +16,5 @@ The Hyparxis Field Model introduces a single ultralight scalar field \(H(x)\) th
 
 ## License
 
-All rights reserved. You may view the contents of this repository, but **no copying, redistribution, or modification** is allowed without explicit permission from the author.
+All rights reserved. You may view the contents of this repository, but **no copying, redistribution, or modification of any contents** is allowed without explicit permission from the author.
  
